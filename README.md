@@ -33,5 +33,7 @@ https://github.com/progressivetech/net.ourpowerbase.qrcodecheckin
 and
 https://lab.civicrm.org/extensions/civimobileapi / https://civimobile.org/
 
+12. Make optional integrations for other CiviCRM Extensions such as https://github.com/civicrm/org.civicrm.volunteer
+
 
 More features to be determined.
